@@ -1,6 +1,6 @@
 {
   "name": "abridge",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Minifier based on srod/node-minify, with various improvemens.",
   "author": {
     "name": "Weltschmerz"
