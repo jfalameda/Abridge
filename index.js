@@ -1,1 +1,1 @@
-module.exports = require('./lib/node-minify');
+module.exports = require('./lib/abridge.js');
