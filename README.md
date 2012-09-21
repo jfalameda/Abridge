@@ -4,15 +4,11 @@
 
 Abridge is a wild fork of [node-minify](https://github.com/srod/node-minify) module. It is not a drop-in replacement, but improves upon the original code in various ways.
 
-+Dropped support for Google Closure
-
-+Do not create temporary files, pipe to chld process's stdin instead
-
-+Use streams wherever possible
-
-+Supply minified data to callbacks
-
-+Major API improvements
+* Dropped support for Google Closure
+* Do not create temporary files, pipe to chld process's stdin instead
+* Use streams wherever possible
+* Supply minified data to callbacks
+* Major API improvements
 
 # Usage
 
