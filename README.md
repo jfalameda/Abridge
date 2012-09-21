@@ -78,7 +78,7 @@ abridge.minify(options, console.log);
 In fact you no longer need an options object:
 
 ```js
-var fileIn = ['public/js/base.js', 'public/js/somn.js];
+var fileIn = ['public/js/base.js', 'public/js/somn.js'];
 var fileOut = 'public/js/common.js';
 abridge.minify(fileIn, fileOut, console.log);
 ```
